@@ -7,9 +7,7 @@ Szakdolgozat - Óbudai Egyetem, Mérnökinformatikus szak
 ## Tartalomjegyzék
 
 - [Leírás](#leírás)
-- [Főbb funkciók](#főbb-funkciók)
 - [Technológiai stack](#technológiai-stack)
-- [Telepítés](#telepítés)
 - [Használat](#használat)
 - [Projekt struktúra](#projekt-struktúra)
 - [Kalória számítás](#kalória-számítás)
@@ -61,8 +59,6 @@ Az alkalmazás egy személyre szabott fitness és táplálkozás ajánló rendsz
 | Frontend | Jinja2, Bootstrap 5, CSS3 |
 | Authentikáció | Flask-Login |
 | Form kezelés | Flask-WTF, WTForms |
-
-
 
 ##  Használat
 
