@@ -7,11 +7,10 @@ Szakdolgozat - Óbudai Egyetem, Mérnökinformatikus szak
 ## Tartalomjegyzék
 
 - [Leírás](#leírás)
-- [Technológiai stack](#technológiai-stack)
+- [Technológiai stack](#technológia)
 - [Használat](#használat)
 - [Projekt struktúra](#projekt-struktúra)
 - [Kalória számítás](#kalória-számítás)
-- [Adatbázis modellek](#adatbázis-modellek)
 
 ---
 
